@@ -28,8 +28,8 @@ and send Earth Dollars with
 
 ## Demonminations
 
--1 earth dollar
--1 ED =10 Dimes
+#1 earth dollar
+#1 ED =10 Dimes
 -1 ED = 20 Nickles
 -1 ED = 100 Pennies
 -1 ED = 1000 Kam 
