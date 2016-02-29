@@ -26,6 +26,25 @@ and send Earth Dollars with
 
 `EarthDollar.sendCoin(<amount>, <receiver_address>, {from: eth.account[0], gas: 50000});`
 
+## Demonminations
+
+1 earth dollar
+1 ED =10 Dimes
+1 ED = 20 Nickles
+1 ED = 100 Pennies
+1 ED = 1000 Kam 
+1 ED = 10^4 Tilly
+1 ED = 10^5 Fish
+1 ED = 10^5 Rajpal
+1 ED = 10^6 Ratt
+1 ED = 10^7 Wawatie
+1 ED = 10^8 Chief
+1 ED = 10^9 Luck
+1 ED = 10^10 Jack
+...
+1 ED = 10^18 Tree
+
+
 ## Developing
 
 This code makes use of the [embark framework](https://github.com/iurimatias/embark-framework). Embark handles creation of a local test blockchain, deployment of the contract code to this blockchain and running a node server with the web part of the Dapp.
